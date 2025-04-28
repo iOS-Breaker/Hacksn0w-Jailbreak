@@ -3,6 +3,13 @@
 
 HackSn0w is a simple and powerful jailbreak tool for iOS 18 versions. With HackSn0w, you can jailbreak your iPhone quickly without needing a computer. It's designed for anyone who wants to enjoy jailbreak features easily and safely.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59a17c37-46c0-4d85-a661-8afb7da72c96" width="200" height="200" alt="hacksn0w Image" />
+</p>
+
+
+
+
 
  ## Main Features
  
@@ -28,6 +35,8 @@ HackSn0w is a simple and powerful jailbreak tool for iOS 18 versions. With HackS
 
 ## Supported Devices
 All iPhone models running iOS 18
+
+(iOS 18.0, iOS 18.0.1, iOS 18.1, iOS 18.1.1, iOS 18.2, iOS 18.2.1, iOS 18.3, iOS 18.3.1, iOS 18.3.2, iOS 18.4, iOS 18.4.1, iOS 18.5 beta)
 
 
 ## Available Package Managers
