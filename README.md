@@ -36,7 +36,7 @@ HackSn0w is a simple and powerful jailbreak tool for iOS 18 versions. With HackS
 ## Supported Devices
 All iPhone models running iOS 18
 
-(iOS 18.0, iOS 18.0.1, iOS 18.1, iOS 18.1.1, iOS 18.2, iOS 18.2.1, iOS 18.3, iOS 18.3.1, iOS 18.3.2, iOS 18.4, iOS 18.4.1, iOS 18.5 beta 4)
+(iOS 18.0, iOS 18.0.1, iOS 18.1, iOS 18.1.1, iOS 18.2, iOS 18.2.1, iOS 18.3, iOS 18.3.1, iOS 18.3.2, iOS 18.4, iOS 18.4.1, iOS 18.5 RC)
 
 
 ## Available Package Managers
